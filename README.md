@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning new javascript libraries and trying out new techologies.
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/feed/
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Kristinna97=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
