@@ -6,3 +6,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kristinna97&hide=stars&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kristinna97)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kristinna97)](https://github.com/anuraghazra/github-readme-stats)
