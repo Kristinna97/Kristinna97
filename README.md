@@ -5,7 +5,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/> </a> </a> </p>
+<p align="left"> <a target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a> </a> </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kristinna97&hide=stars&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
