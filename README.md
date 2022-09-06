@@ -1,8 +1,8 @@
 ### Hi there, I am an Aspiring Full Stack Developer  👋
 
 
-- 🔭 I’m currently working on building my own portfolio, and an Endless Runner game while pairing with a friend I met at Northcoders.
-- 🌱 I’m currently learning new javascript libraries and trying out new techologies.
+- 🔭 I’m currently working on a game for the JS13K Games competition.
+
 
 <hr>
 
