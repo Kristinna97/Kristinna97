@@ -1,5 +1,10 @@
 ### Hi there, I am an Aspiring Full Stack Developer  👋
 
+An initial version of my portfolio: 
+[https://portfolio-kp.netlify.app/](https://portfolio-kp.netlify.app/)
+<br>
+
+
 
 - 🔭 I’m currently working on a game for the JS13K Games competition.
 
